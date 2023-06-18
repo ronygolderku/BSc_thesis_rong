@@ -1,0 +1,70 @@
+# Methodology
+
+## Study area and period
+
+This study was conducted in Water Chemistry Laboratory of Fisheries and Marine Resource Technology, Khulna University, Bangladesh. The experiment was continued for six weeks from October to November.
+
+## Experimental Animal
+
+This experiment was a feed trial in tank culture of P. monodon for one and half month. P. monodon juvenile was collected from farmer's nursery pond of Bagerhat District. The animals were transported to Water Chemistry Laboratory and stocked into experimental tanks. After acclimatization at different salinities for 5 days the experiment was subjected to treat with different feeds.
+
+## Experimental tank set up and salinity adjustment
+
+Newly purchased transparent plastic tanks of 30 L water capacity were used for this experiment. The tanks water volume were maintained up to 25 L throughout the experiment. All the tanks under different treatments were distributed randomly in the laboratory. Different salinity levels were adjusted by calculating using the formula, S1V1 = S2V2. Brine water of 120 ppt was used to adjust the salinity.
+
+## Experimental Design
+
+The experimental trial were conducted on 30 L transparent plastic tanks. The animals were cultured in four different salinity levels (5, 10, 15, and 20 ppt) with four different experimental feeds (F1, F2, F3, and F4). We also planned to culture the juvenile at 0 ppt, but after 3 days of stocking all the animals were dead. All the tanks were well set up with continuous aeration and covered with plastic lids to avoid unwanted contamination from outside. Each of the treatment was repeated in three tanks with equal facilities.
+
+Table 3.1 Layout of the Experiment
+
+| Feed   | Salinity 5ppt | Salinity 10ppt | Salinity 15ppt | Salinity 20ppt |
+|--------|---------------|----------------|----------------|----------------|
+|        | S~5~          | S~5~           | S~5~           | S~10~          |
+| F1 (A) | R~1~          | R~2~           | R~3~           | R~1~           |
+| F2 (B) | R~1~          | R~2~           | R~3~           | R~1~           |
+| F3 (C) | R~1~          | R~2~           | R~3~           | R~1~           |
+| F4 (D) | R~1~          | R~2~           | R~3~           | R~1~           |
+
+## Feeding management
+
+During the experiment the shrimps were fed to satiety twice daily, seven days a week for the six week duration of the experiment. The feed ration allocation was determined by feeding to slight excess (110-120% of satiation). Initial feed rate was 6% of tank biomass / daily (initial 1.2g a day).
+
+Table 3.2 List of different feed ingredients of four different diets.
+
+| Diet | Moisture (%) | Crude Lipid (%) | Crude Protein (%) | Ash (%) | Crude Fibre (%) | Carbohydrate (%) |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| F1   | 15.61        | 7.17            | 38.09             | 10.57   | 4.20            | 24.36            |
+| F2   | 14.91        | 6.70            | 37.00             | 12.43   | 5.20            | 23.76            |
+| F3   | 13.67        | 6.77            | 39.70             | 9.44    | 4.30            | 26.12            |
+| F4   | 13.97        | 7.33            | 40.46             | 7.29    | 5.66            | 25.29            |
+
+Uneaten feed was scored (counted) in each tank first thing in the morning prior to feeding, with the scoring used to estimate the amount of uneaten feed and used to adjust the afternoon ration (as per table below). A small set rate was fed to each tank in the morning after scoring (feed 0.3g in AM), the remaining individually adjusted ration was offered at 4pm. Bulk feed was kept in the freezer except when weighing feed.
+
+Table 3.3 Feeding adjustment table.
+
+| Pellet Count in AM | Adjustment                   |
+|--------------------|------------------------------|
+| 30 + Pellets       | Decrease PM ration by \~0.3g |
+| 1 to \~30 Pellets  | No adjustment                |
+| No pellets         | Increase PM ration by \~0.3g |
+
+## Sampling and growth measurement
+
+The weight of shrimp was measured every seven days interval by collecting all the individuals from all the tanks by using scoop net. The weight of the shrimp was taken by an electronic weight measuring balance. The growth parameters will be calculated by the following equations:
+
+Weight Gained (WG) = Final weight -- Initial weight. (Biswas et al., 2012)
+
+Daily weight gain (DWG) (g/day) = $\frac{{(W_t - W_0)}}{t}$, where $t$ is the duration of the growth interval (Ghosh et al., 2016)
+
+Daily growth rate (DGR) = $\frac{{\text{{Weight gained}}}}{{\text{{No. of days}}}} \times 100$ (Rebecca & Bhavan, 2014)
+
+Weight gain (%) or Relative Growth Rate (RGR) = $\frac{{(Final weight - Initial weight)}}{{Initial weight}} \times 100$ (Thimmurugan & Subramanian, 2004)
+
+Specific growth rate (SGR) = $\frac{{\ln(W_t) - \ln(W_0)}}{t} \times 100$ (Thimmurugan & Subramanian, 2004)
+
+Survival rate (SR) % = $\frac{{\text{{No. of live prawn}}}}{{\text{{No. of prawn introduced}}}} \times 100$ (Thimmurugan & Subramanian, 2004)
+
+## Data analysis
+
+The data obtained during the experiment was statistically analyzed using Microsoft Excel 10.0, SPSS 25.0 version. Multivariate analysis of variance was done to compare the means of growth data under different treatments.

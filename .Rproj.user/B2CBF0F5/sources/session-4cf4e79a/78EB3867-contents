@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 2 Literature | Putting Fishing Landing Sites and their Insfrastructure on Spatial Aspect</title>
+  <meta name="description" content="This dissertation is copyright material protected under the Berne Convention, the Copyright Act 1999 and other international and national enactments, in that behalf, on intellectual property. It may not be reproduced by any means, in full or in part, except for short extracts in fair dealings, for research or private study, critical scholarly review or discourse with an acknowledgement, without the written permission of the Directorate of Postgraduate Studies, on behalf of both the author and the University of Dar es Salaam" />
+  <meta name="generator" content="bookdown 0.18 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 2 Literature | Putting Fishing Landing Sites and their Insfrastructure on Spatial Aspect" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="This dissertation is copyright material protected under the Berne Convention, the Copyright Act 1999 and other international and national enactments, in that behalf, on intellectual property. It may not be reproduced by any means, in full or in part, except for short extracts in fair dealings, for research or private study, critical scholarly review or discourse with an acknowledgement, without the written permission of the Directorate of Postgraduate Studies, on behalf of both the author and the University of Dar es Salaam" />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 2 Literature | Putting Fishing Landing Sites and their Insfrastructure on Spatial Aspect" />
+  
+  <meta name="twitter:description" content="This dissertation is copyright material protected under the Berne Convention, the Copyright Act 1999 and other international and national enactments, in that behalf, on intellectual property. It may not be reproduced by any means, in full or in part, except for short extracts in fair dealings, for research or private study, critical scholarly review or discourse with an acknowledgement, without the written permission of the Directorate of Postgraduate Studies, on behalf of both the author and the University of Dar es Salaam" />
+  
+
+<meta name="author" content="Masumbuko Semba" />
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="intro.html"/>
+<link rel="next" href="methods.html"/>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+<script src="libs/kePrint-0.0.1/kePrint.js"></script>
+<script src="libs/htmlwidgets-1.5.1/htmlwidgets.js"></script>
+<link href="libs/leaflet-1.3.1/leaflet.css" rel="stylesheet" />
+<script src="libs/leaflet-1.3.1/leaflet.js"></script>
+<link href="libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet" />
+<script src="libs/Proj4Leaflet-1.0.1/proj4-compressed.js"></script>
+<script src="libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
+<link href="libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet" />
+<script src="libs/leaflet-binding-2.0.3/leaflet.js"></script>
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">A Master Thesis</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Aknowledgement</a></li>
+<li class="chapter" data-level="" data-path="abstract.html"><a href="abstract.html"><i class="fa fa-check"></i>Abstract</a></li>
+<li class="chapter" data-level="1" data-path="intro.html"><a href="intro.html"><i class="fa fa-check"></i><b>1</b> Introduction</a><ul>
+<li class="chapter" data-level="1.1" data-path="intro.html"><a href="intro.html#general-introduction"><i class="fa fa-check"></i><b>1.1</b> General Introduction</a></li>
+<li class="chapter" data-level="1.2" data-path="intro.html"><a href="intro.html#statement-of-the-problem"><i class="fa fa-check"></i><b>1.2</b> Statement of the Problem</a></li>
+<li class="chapter" data-level="1.3" data-path="intro.html"><a href="intro.html#research-objective"><i class="fa fa-check"></i><b>1.3</b> Research Objective</a><ul>
+<li class="chapter" data-level="1.3.1" data-path="intro.html"><a href="intro.html#general-objective"><i class="fa fa-check"></i><b>1.3.1</b> General Objective</a></li>
+<li class="chapter" data-level="1.3.2" data-path="intro.html"><a href="intro.html#specific-objectives"><i class="fa fa-check"></i><b>1.3.2</b> Specific Objectives</a></li>
+</ul></li>
+<li class="chapter" data-level="1.4" data-path="intro.html"><a href="intro.html#significance-of-the-study"><i class="fa fa-check"></i><b>1.4</b> Significance of the Study</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="literature.html"><a href="literature.html"><i class="fa fa-check"></i><b>2</b> Literature</a><ul>
+<li class="chapter" data-level="2.1" data-path="literature.html"><a href="literature.html#mapping"><i class="fa fa-check"></i><b>2.1</b> Mapping</a></li>
+<li class="chapter" data-level="2.2" data-path="literature.html"><a href="literature.html#gis-capability-and-spatial-database"><i class="fa fa-check"></i><b>2.2</b> GIS Capability and Spatial Database</a></li>
+<li class="chapter" data-level="2.3" data-path="literature.html"><a href="literature.html#characteristic-of-marine-artisanal-fisheries"><i class="fa fa-check"></i><b>2.3</b> Characteristic of marine artisanal fisheries</a></li>
+<li class="chapter" data-level="2.4" data-path="literature.html"><a href="literature.html#fish-landing-sites"><i class="fa fa-check"></i><b>2.4</b> Fish Landing Sites</a></li>
+<li class="chapter" data-level="2.5" data-path="literature.html"><a href="literature.html#the-value-of-fish-landing-site"><i class="fa fa-check"></i><b>2.5</b> The value of Fish landing site</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="methods.html"><a href="methods.html"><i class="fa fa-check"></i><b>3</b> Methods</a><ul>
+<li class="chapter" data-level="3.1" data-path="methods.html"><a href="methods.html#study-area"><i class="fa fa-check"></i><b>3.1</b> Study area</a></li>
+<li class="chapter" data-level="3.2" data-path="methods.html"><a href="methods.html#mapping-1"><i class="fa fa-check"></i><b>3.2</b> Mapping</a></li>
+<li class="chapter" data-level="3.3" data-path="methods.html"><a href="methods.html#determine-the-length-of-the-coastline"><i class="fa fa-check"></i><b>3.3</b> Determine the length of the Coastline</a></li>
+<li class="chapter" data-level="3.4" data-path="methods.html"><a href="methods.html#characteristics-of-landing-sites"><i class="fa fa-check"></i><b>3.4</b> Characteristics of landing sites</a></li>
+<li class="chapter" data-level="3.5" data-path="methods.html"><a href="methods.html#density-of-fishing-vessels"><i class="fa fa-check"></i><b>3.5</b> Density of fishing Vessels</a></li>
+<li class="chapter" data-level="3.6" data-path="methods.html"><a href="methods.html#valuing-fish-landing-sites"><i class="fa fa-check"></i><b>3.6</b> Valuing fish landing sites</a></li>
+<li class="chapter" data-level="3.7" data-path="methods.html"><a href="methods.html#spatial-statistical-analysis"><i class="fa fa-check"></i><b>3.7</b> Spatial Statistical Analysis</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="result.html"><a href="result.html"><i class="fa fa-check"></i><b>4</b> Results</a><ul>
+<li class="chapter" data-level="4.1" data-path="result.html"><a href="result.html#mapping-2"><i class="fa fa-check"></i><b>4.1</b> Mapping</a></li>
+<li class="chapter" data-level="4.2" data-path="result.html"><a href="result.html#length-of-the-coastline"><i class="fa fa-check"></i><b>4.2</b> Length of the coastline</a></li>
+<li class="chapter" data-level="4.3" data-path="result.html"><a href="result.html#spatial-distribution-of-fish-landing-sites"><i class="fa fa-check"></i><b>4.3</b> Spatial distribution of fish landing sites</a></li>
+<li class="chapter" data-level="4.4" data-path="result.html"><a href="result.html#spatial-pattern-of-fishing-vessels"><i class="fa fa-check"></i><b>4.4</b> Spatial Pattern of fishing vessels</a></li>
+<li class="chapter" data-level="4.5" data-path="result.html"><a href="result.html#characteristics-of-fishing-vessels"><i class="fa fa-check"></i><b>4.5</b> Characteristics of fishing vessels</a></li>
+<li class="chapter" data-level="4.6" data-path="result.html"><a href="result.html#similarity-of-fish-landing-sites"><i class="fa fa-check"></i><b>4.6</b> Similarity of Fish Landing Sites</a></li>
+<li class="chapter" data-level="4.7" data-path="result.html"><a href="result.html#characteristics-of-fishing-gears"><i class="fa fa-check"></i><b>4.7</b> Characteristics of fishing gears</a></li>
+<li class="chapter" data-level="4.8" data-path="result.html"><a href="result.html#fish-groups-landed-at-the-fish-landing-sites"><i class="fa fa-check"></i><b>4.8</b> Fish groups landed at the fish landing sites</a></li>
+<li class="chapter" data-level="4.9" data-path="result.html"><a href="result.html#density-of-fishing-vessels-at-the-landing-sites"><i class="fa fa-check"></i><b>4.9</b> Density of fishing vessels at the landing sites</a></li>
+<li class="chapter" data-level="4.10" data-path="result.html"><a href="result.html#investment-value-of-fish-landing-site"><i class="fa fa-check"></i><b>4.10</b> Investment value of fish landing site</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="discussion.html"><a href="discussion.html"><i class="fa fa-check"></i><b>5</b> Discussion</a></li>
+<li class="chapter" data-level="6" data-path="conclusion-and-recommendation.html"><a href="conclusion-and-recommendation.html"><i class="fa fa-check"></i><b>6</b> Conclusion and Recommendation</a><ul>
+<li class="chapter" data-level="6.1" data-path="conclusion-and-recommendation.html"><a href="conclusion-and-recommendation.html#conclusion"><i class="fa fa-check"></i><b>6.1</b> Conclusion</a></li>
+<li class="chapter" data-level="6.2" data-path="conclusion-and-recommendation.html"><a href="conclusion-and-recommendation.html#recommendation"><i class="fa fa-check"></i><b>6.2</b> Recommendation</a></li>
+</ul></li>
+<li class="appendix"><span><b>Appendix</b></span></li>
+<li class="chapter" data-level="A" data-path="the-first-appendix.html"><a href="the-first-appendix.html"><i class="fa fa-check"></i><b>A</b> The First Appendix</a></li>
+<li class="chapter" data-level="B" data-path="the-second-appendix-for-fun.html"><a href="the-second-appendix-for-fun.html"><i class="fa fa-check"></i><b>B</b> The Second Appendix, for Fun</a></li>
+<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Putting Fishing Landing Sites and their Insfrastructure on Spatial Aspect</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="literature" class="section level1">
+<h1><span class="header-section-number">Chapter 2</span> Literature</h1>
+<div id="mapping" class="section level2">
+<h2><span class="header-section-number">2.1</span> Mapping</h2>
+<p>Mapping helps to locate a FLS on the earth’s surface presented on digital or paper map <span class="citation">(Carocci et al. <a href="#ref-carocci" role="doc-biblioref">2009</a>)</span>. Fish landing site distributions can be mapped within a GIS environment using georeferenced fisheries data <span class="citation">(Noji, Pederson, and Adams <a href="#ref-noji" role="doc-biblioref">2006</a>)</span>. Mapping the distribution of fish landing sites helps to visualize and understand where critical or sensitive fish landing sites are located, and this information is essential for successful fisheries management <span class="citation">(Carocci et al. <a href="#ref-carocci" role="doc-biblioref">2009</a>)</span>. Mapping the fishery and the resources should be among the priority tasks when planning for fisheries management <span class="citation">(Caddy and Carocci <a href="#ref-caddy" role="doc-biblioref">1999</a>)</span>. <span class="citation">Fisher (<a href="#ref-fisher" role="doc-biblioref">2007</a>)</span> prepared a manual with practical guidelines and principles of cartography which elaborated the basic concepts underlying preparation of maps and charts, collection of geographical information and graphical techniques to improve information transfer from cartographic representation to the end user.</p>
+<p>Maps enable anyone to overcome the frustration of an ‘illiteracy syndrome’ that difficult words otherwise impose and so allow everyone to be more content [<span class="citation">Fisher and Rahel (<a href="#ref-fisher2004" role="doc-biblioref">2004</a>)</span>. A special purpose map, prepared with an objective to show distribution of a theme (such as fish landing sites) is known as thematic map <span class="citation">(Noji, Pederson, and Adams <a href="#ref-noji" role="doc-biblioref">2006</a>)</span>. A synoptic map can be an invaluable basic document for investment planning and for display of economic information in a spatial context (e.g. socioeconomic status of fishermen, rates of unemployment, etc.). One of the areas where information of different types needs to be combined in this way is in preparation of management plans for fisheries. <span class="citation">Caddy and Carocci (<a href="#ref-caddy" role="doc-biblioref">1999</a>)</span> pointed that the Food and Agricultural Organization (FAO) of the United Nations (UN) have been recommending that spatial management via mapping should be a prerequisite for the strategic development of fisheries. Although this has been difficult in Tanzania for the past years, recently the advent of GIS has opened up extraordinary opportunities.</p>
+<p>A thematic map can be used to highlight the particular coastal areas which support the natural resources (mangroves, coral reefs, MPA etc.) and manmade infrastructural facilities like fisherman villages, landing centers, fish markets, processing plants, export units, which are the basic means to exploit natural fishery resources. All the natural and infrastructural facilities available can be expressed on a thematic map, which is of direct relevance to all users and administrators of the marine environment for proper understanding, planning, managing and optimal utilization of available facilities and resources <span class="citation">(Verstralen, Lenselink, and Ramirez <a href="#ref-karin" role="doc-biblioref">2004</a>)</span>. Also, mapping helps to visualize and understand where sensitive fish landing sites are located, and this information is essential for successful fisheries management <span class="citation">(Medina Pizzali <a href="#ref-medina" role="doc-biblioref">1988</a>)</span>.</p>
+</div>
+<div id="gis-capability-and-spatial-database" class="section level2">
+<h2><span class="header-section-number">2.2</span> GIS Capability and Spatial Database</h2>
+<p><span class="citation">Breman (<a href="#ref-breman" role="doc-biblioref">2002</a>)</span> described a Geographic Information System (GIS) as a computer assisted database usually used to digitally collate, analyze and present geographic data. GIS is certainly the fastest growing form with the most applications, without which many of the daily functions would not be possible. GIS is used for a vast range of tasks for nearly everything. In Industry and particularly in agriculture, GIS is used extensively for mapping of crop yield and crop rotation cycles, as well as projecting future soil loss on farms, be it from erosion, or poor use <span class="citation">(Kam <a href="#ref-kam" role="doc-biblioref">1989</a>)</span>. Since a GIS can be used to manage information from wherever it is located, GIS is becoming increasingly valuable in business management, allowing information to be obtained about where the customers are, what their preferences are (market research), spending patterns, and how to optimally exploit this information to maximize overall market share to minimize effective competition <span class="citation">(Martin and Hall-Arber <a href="#ref-martin" role="doc-biblioref">2008</a>)</span>.</p>
+<p>Cities and city planners cannot do without GIS to track maintenance, keep inventories and map locations, and model scenarios and distribution of services <span class="citation">(Kam <a href="#ref-kam" role="doc-biblioref">1989</a>)</span>. GIS is used daily in the conservation of the environment. Species and resources can not only be mapped but can also be modeled, which allows for a preventative view on possibilities or scenarios, allowing greater solution about a specific problem <span class="citation">(Kraak and Ormeling <a href="#ref-kraak" role="doc-biblioref">2013</a>)</span>. Furthermore, managing coastal resources is also more sustainable with the use of a GIS, where the study of mapping of fishing grounds have been conducted <span class="citation">(Noji, Pederson, and Adams <a href="#ref-noji" role="doc-biblioref">2006</a>)</span>.</p>
+<p>Integration of geographic entities representing real locations spatial information on the earth’s surface is one of the strengths and prominent functionalities of a GIS <span class="citation">(Kam <a href="#ref-kam" role="doc-biblioref">1989</a>)</span>. Quantitative information can be combined with qualitative information to create a functional model in GIS to represent a real world <span class="citation">(Martin and Hall-Arber <a href="#ref-martin" role="doc-biblioref">2008</a>; Breman <a href="#ref-breman" role="doc-biblioref">2002</a>)</span>. GIS use a spatial database for its functions; typically, the database has two elements a spatial database describing the geography of a feature and an attribute database describing any associating characteristics <span class="citation">(Orenstein <a href="#ref-orenstein1986spatial" role="doc-biblioref">1986</a>)</span>.</p>
+<p>GIS offers powerful tools to address complex issues and allows for efficient and effective organize, update, and query geospatial data <span class="citation">(Rolf, By, and others <a href="#ref-rolf2000principles" role="doc-biblioref">2000</a>)</span>. It provides the tools for applying spatial analysis, managing data, and mapping the results of the spatially referenced biophysical and socioeconomic information <span class="citation">(Martin and Hall-Arber <a href="#ref-martin" role="doc-biblioref">2008</a>)</span>. With GIS, complex spatial systems between biophysical and human processes are easily integrated and analyzed <span class="citation">(Chapman and Turner <a href="#ref-chapman" role="doc-biblioref">2004</a>)</span>. It also provides a logical function in which FLS mapping is applied and used to calculate some of the necessary attributes <span class="citation">(Verstralen, Lenselink, and Ramirez <a href="#ref-karin" role="doc-biblioref">2004</a>)</span>.</p>
+<p>With GIS software geospatial data can be visualized and analyzed in new ways, revealing previously hidden relationships, patterns and trends <span class="citation">(Borges, Davis, and Laender <a href="#ref-borges2001omt" role="doc-biblioref">2001</a>)</span>. GIS software such as ESRI ArcGIS Desktop is used to visualize the spatial/temporal distribution of fishing activities and the socio-biophysical linkage affecting this distribution <span class="citation">(Fisher <a href="#ref-fisher" role="doc-biblioref">2007</a>)</span>. Furthermore, GIS supports decision making process by helping to design and develops management practices grounded in regional, biophysical, social and political realities <span class="citation">(Breman <a href="#ref-breman" role="doc-biblioref">2002</a>)</span>. <span class="citation">Carocci et al. (<a href="#ref-carocci" role="doc-biblioref">2009</a>)</span> reported how mapping enabled visualization of the spatial dimensions of fisheries activities in the northern Gulf of California, the spatial distribution of fishing activities and the social-biophysical linkage affecting this distribution was successfully visualized.</p>
+</div>
+<div id="characteristic-of-marine-artisanal-fisheries" class="section level2">
+<h2><span class="header-section-number">2.3</span> Characteristic of marine artisanal fisheries</h2>
+<p>A fishery is the interaction between the fishery resource, its environment, and humans. The benefits of a fishery system can be economic, nutrition or sport related. Artisanal fishing is an important economic activity in many countries <span class="citation">(Gameiro and Wilson <a href="#ref-gameiro2003importance" role="doc-biblioref">2003</a>)</span>. It employs thousands of people, provides food to a large part of the population and contributes significantly to foreign exchange earnings <span class="citation">(Verstralen, Lenselink, and Ramirez <a href="#ref-karin" role="doc-biblioref">2004</a>)</span>. While artisanal fishing refers to an activity, artisanal fisheries refer to the sector. Artisanal fisheries generally use relatively low levels of technology and investment both for fishing and for processing <span class="citation">(Allison and Ellis <a href="#ref-allison2001livelihoods" role="doc-biblioref">2001</a>)</span>. It is also distinguished by its high levels of labor input, which is often recruited through family relationships <span class="citation">(Verstralen, Lenselink, and Ramirez <a href="#ref-karin" role="doc-biblioref">2004</a>)</span>. Artisanal fishing in Tanzania is characterized by being carried out within the near shore coastal waters of depth not exceeding 30 meter deep <span class="citation">(Muhando and Jiddawi <a href="#ref-muhando1998fisheries" role="doc-biblioref">1998</a>)</span>. Some artisanal fishing occurs in depths of 100 m and more by using larger boats such as dhows <span class="citation">(Semesi et al. <a href="#ref-semesi2001" role="doc-biblioref">2001</a>)</span>. Fishing communities exist in many small villages scattered along the entire coastline of Tanzania Mainland.</p>
+<p>Artisanal fishermen use traditional crafts, mostly propelled by oar, pole or sail and simple fishing gears <span class="citation">(Muhando and Jiddawi <a href="#ref-muhando1998fisheries" role="doc-biblioref">1998</a>)</span>. Common fishing vessels used along the coastline of Tanzania include dugout canoes, outrigger canoe, boats, and dhows. Outrigger and dugout canoe are the most extensively fishing vessels used in marine waters of Tanzania because they are cheaper than boat and relatively more efficient than dhows (Tarbit, 1985). The fishing gears commonly used are lines (handline and longline), traps (fixed and moveable), nets (purse seine, scoop, drift gillnets, demersal gillnets with small and large mesh, shark nets and surrounding gill nets), spear guns and iron harpoons <span class="citation">(Jiddawi and Stanley <a href="#ref-jiddawi1997" role="doc-biblioref">1997</a>)</span>.</p>
+<p>Since the main propulsion for the fishing vessel is wind, the fishing areas protected by the coral reef barriers and bays are the only places where it is possible to fish all the year round . Fishing is carried out mainly in shallow water areas of coral reefs and seagrass beds that are easily accessible from fishing villages and landing sites <span class="citation">(Verstralen, Lenselink, and Ramirez <a href="#ref-karin" role="doc-biblioref">2004</a>)</span>. In the intertidal area, fish stocks are supported by a combination of benthic and water column primary productivity <span class="citation">(Semesi et al. <a href="#ref-semesi2001" role="doc-biblioref">2001</a>)</span>. The high benthic productivity in shallow habitats like coral reefs, seagrass beds and mangrove attracts corresponding high secondary (zooplankton) and tertiary (fish and invertebrates) productivity.</p>
+<p>The best fishing grounds of Tanzania coastal water are found in the Pwani Region (Muhando and Rumisha in press). Areas with relatively high abundance of fish include the areas around Dar es Salaam, Bagamoyo and Zanzibar channel as well as areas around Mafia, Kilwa and Rufiji delta <span class="citation">(Muhando and Jiddawi <a href="#ref-muhando1998fisheries" role="doc-biblioref">1998</a>)</span>. The channel is characterized by continental shelf extending to the island of Unguja and Mafia, as well as estuaries of the largest rivers such as Pangani, Wami, Ruvu and Rufiji flowing into the Indian Ocean (Tarbit, 1985). These favourable conditions make it the most coastal productive area [<span class="citation">Semesi et al. (<a href="#ref-semesi2001" role="doc-biblioref">2001</a>)</span>. It is in this zone where there is the highest concentration of artisanal fishing activities <span class="citation">(Semesi et al. <a href="#ref-semesi2001" role="doc-biblioref">2001</a>)</span>.</p>
+</div>
+<div id="fish-landing-sites" class="section level2">
+<h2><span class="header-section-number">2.4</span> Fish Landing Sites</h2>
+<p>A landing site is a useful entry point for management and development planning in artisanal fisheries because it is the one geographical place where the majority of stakeholders come together: boat owners, fishers, fish processors, fish traders, mechanics, food sellers and carpenters, fisheries field staff, customs officers and harbor police <span class="citation">(Verstralen, Lenselink, and Ramirez <a href="#ref-karin" role="doc-biblioref">2004</a>)</span>. The landing site is thus an effective and efficient starting point for understanding the characteristic of artisanal fisheries as well as on the strategy on how to manage it. A fish landing site may range from a small settlement on a stretch of beach with hardly any infrastructure and facilities to larger artisanal fisheries areas that are part of bigger ports or harbors in or close to urban centers <span class="citation">(Verstralen, Lenselink, and Ramirez <a href="#ref-karin" role="doc-biblioref">2004</a>)</span>.</p>
+<p>A fish landing site is used for receiving fish from small-scale fishermen, fishing fleets motorized with outboard engines or inboard diesel engines and non motorized sailing vessels [<span class="citation">De Young (<a href="#ref-de2006review" role="doc-biblioref">2006</a>)</span>. The bulk of the catch landed is marketed as fresh fish and is sold to consumers in the vicinity of the landing sites and in the densely populated areas <span class="citation">(Verstralen, Lenselink, and Ramirez <a href="#ref-karin" role="doc-biblioref">2004</a>)</span>. The FLS attributes depend on the market, which is an institution that enables product exchanges to take place <span class="citation">(De Young <a href="#ref-de2006review" role="doc-biblioref">2006</a>)</span>. The market serves as a connection between the producer (fishermen) and consumer (resident, hotel developer). FLS serves both a physical function (buying, selling, storage, processing, Transportation and information) and economic function (price, behaviour).</p>
+<p>Some of the facility found at FLS includes fish receiving stations and market, land based fish storage facilities, ice making facilities and processing plants <span class="citation">(Mngulwi <a href="#ref-mngulwi" role="doc-biblioref">2003</a>)</span>. These are facilities to support fishers in their day to day operations. They are meant to facilitate marketing of the catch and reduce post harvest losses (Muhando and Rumisha in press). Other facilities at FLS are fish store, potable water, toilet facilities, boat and net repair facilities, accessibility, weighing scales and electricity supply <span class="citation">(Verstralen, Lenselink, and Ramirez <a href="#ref-karin" role="doc-biblioref">2004</a>)</span>. Each FLS is different and is shaped by different forces (social, economic, political, demographic, resource, legal).</p>
+</div>
+<div id="the-value-of-fish-landing-site" class="section level2">
+<h2><span class="header-section-number">2.5</span> The value of Fish landing site</h2>
+<p>Many factors go into determining fish landing site value. The size of the area and number of buildings plays a large part. Typically, market and auction buildings with facilities increase the fish landing site value <span class="citation">(Tarbit <a href="#ref-tarbit" role="doc-biblioref">1984</a>)</span>. There are several other features that help determine fish landing site value; located near urban center, close to public transportation and the age and condition of building and facilities of the landing site <span class="citation">(Verstralen, Lenselink, and Ramirez <a href="#ref-karin" role="doc-biblioref">2004</a>)</span>. All of these can add to its value. Another factor in fish landing site value is the current fishing efforts (type and number of fishing vessels and gears). The more the fishing effort, the more valuable the landing site, <span class="citation">(Tarbit <a href="#ref-tarbit" role="doc-biblioref">1984</a>)</span> particularly if it constitutes vessels which are more valuable such as boats and dhows. Supply and demand fish products and other fish related infrastructural facilities if available adds th e wealth of the landing site <span class="citation">(Medina Pizzali <a href="#ref-medina" role="doc-biblioref">1988</a>)</span>.</p>
+
+</div>
+</div>
+<h3>References</h3>
+<div id="refs" class="references">
+<div id="ref-allison2001livelihoods">
+<p>Allison, Edward H, and Frank Ellis. 2001. “The Livelihoods Approach and Management of Small-Scale Fisheries.” <em>Marine Policy</em> 25 (5): 377–88.</p>
+</div>
+<div id="ref-borges2001omt">
+<p>Borges, Karla AV, Clodoveu A Davis, and Alberto HF Laender. 2001. “OMT-G: An Object-Oriented Data Model for Geographic Applications.” <em>GeoInformatica</em> 5 (3): 221–60.</p>
+</div>
+<div id="ref-breman">
+<p>Breman, Joe. 2002. <em>Marine Geography: GIS for the Oceans and Seas</em>. ESRI, Inc.</p>
+</div>
+<div id="ref-caddy">
+<p>Caddy, JF, and F Carocci. 1999. “The Spatial Allocation of Fishing Intensity by Port-Based Inshore Fleets: A Gis Application.” <em>ICES Journal of Marine Science</em> 56 (3): 388–403.</p>
+</div>
+<div id="ref-carocci">
+<p>Carocci, Fabio, Gabriella Bianchi, Paul Eastwood, and Geoff Meaden. 2009. <em>Geographic Information Systems to Support the Ecosystem Approach to Fisheries: Status, Opportunities and Challenges</em>. FAO.</p>
+</div>
+<div id="ref-chapman">
+<p>Chapman, Bryony, and John R Turner. 2004. “Development of a Geographical Information System for the Marine Resources of Rodrigues.” <em>Journal of Natural History</em> 38 (23-24): 2937–57.</p>
+</div>
+<div id="ref-de2006review">
+<p>De Young, Cassandra. 2006. <em>Review of the State of World Marine Capture Fisheries Management: Indian Ocean</em>. 488. Food &amp; Agriculture Org.</p>
+</div>
+<div id="ref-fisher">
+<p>Fisher, William L. 2007. “Recent Trends in Fisheries Geographic Information Systems.” <em>GIS/Spatial Analyses in Fishery and Aquatic Sciences</em> 3: 3–26.</p>
+</div>
+<div id="ref-fisher2004">
+<p>Fisher, William Lawrence, and Frank J Rahel. 2004. <em>Geographic Information Systems in Fisheries</em>. American Fisheries Society.</p>
+</div>
+<div id="ref-gameiro2003importance">
+<p>Gameiro, MFS, and JDK Wilson. 2003. “The Importance of Marine Fisheries to Coastal Community Livelihoods in Sadc Countries.” <em>Maputo: Kusi Consultores Ltda</em>.</p>
+</div>
+<div id="ref-jiddawi1997">
+<p>Jiddawi, NS, and RD Stanley. 1997. “A Study of the Artisanal Fishery in the Villages of Matemwe and Mkokotoni, Zanzibar, Tanzania.” In <em>Fisheries Stock Assessment in the Traditional Fishery Sector: The Information Needs. Proceedings of the National Workshop on the Artisanal Fisheries Sector, Zanzibar</em>, 22–24.</p>
+</div>
+<div id="ref-kam">
+<p>Kam, SP. 1989. “The Use of Gis for Coastal Resources Study: Some Case Examples.” <em>Tropical Coastal Area Management</em> 42: 6–7.</p>
+</div>
+<div id="ref-kraak">
+<p>Kraak, Menno-Jan, and Ferdinand Jan Ormeling. 2013. <em>Cartography: Visualization of Spatial Data</em>. Routledge.</p>
+</div>
+<div id="ref-martin">
+<p>Martin, Kevin St, and Madeleine Hall-Arber. 2008. “The Missing Layer: Geo-Technologies, Communities, and Implications for Marine Spatial Planning.” <em>Marine Policy</em> 32 (5): 779–86.</p>
+</div>
+<div id="ref-medina">
+<p>Medina Pizzali, Avilio F. 1988. <em>Small-Scale Fish Landing and Marketing Facilities</em>. FAO.</p>
+</div>
+<div id="ref-mngulwi">
+<p>Mngulwi, BS. 2003. “Country Review: United Republic of Tanzania.” <em>Review of the State of World Marine Capture Fisheries Management: Indian Ocean</em> 447.</p>
+</div>
+<div id="ref-muhando1998fisheries">
+<p>Muhando, Christopher A, and NS Jiddawi. 1998. “Fisheries Resources of Zanzibar: Problems and Recommendations.” <em>Large Marine Ecosystems of the Indian Ocean: Assessment, Sustainability and Management</em>, 247–54.</p>
+</div>
+<div id="ref-noji">
+<p>Noji, Thomas T, Judith Pederson, and Christiaan Scott Adams. 2006. “Geographic Information Systems and Ocean Mapping in Support of Fisheries Management.”</p>
+</div>
+<div id="ref-orenstein1986spatial">
+<p>Orenstein, Jack A. 1986. “Spatial Query Processing in an Object-Oriented Database System.” In <em>ACM Sigmod Record</em>, 15:326–36. 2. ACM.</p>
+</div>
+<div id="ref-rolf2000principles">
+<p>Rolf, A, RA de By, and others. 2000. “Principles of Geographic Information Systems.” <em>The International Institute for Aerospace Survey and Earth Sciences (ITC), Hengelosestraat</em> 99.</p>
+</div>
+<div id="ref-semesi2001">
+<p>Semesi, A, Christopher A Muhando, Shigalla B Mahongo, J Daffa, Magnus Ngoile, Yunus D Mgaya, and Julius Francis. 2001. “Coastal Resources and Their Use. In: Eastern Africa Atlas of Coastal Resources.”</p>
+</div>
+<div id="ref-tarbit">
+<p>Tarbit, J. 1984. “Inshore Fisheries of the Tanzanian Coast.” <em>Overseas Development Administration, London, UK</em>.</p>
+</div>
+<div id="ref-karin">
+<p>Verstralen, Karin M, Noeky M Lenselink, and Ricardo Ramirez. 2004. <em>Participatory Landing Site Development for Artisanal Fisheries Livelihoods: Users’ Manual</em>. 466. Food &amp; Agriculture Org.</p>
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="intro.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="methods.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["master_thesis.pdf", "master_thesis.epub"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+</body>
+
+</html>

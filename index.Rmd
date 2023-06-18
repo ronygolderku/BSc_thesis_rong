@@ -1,0 +1,58 @@
+--- 
+title: "Investigating the effect of different experimental diets and salinities on the growth of *Penaeus monodon*"
+author: "Md Rony Golder"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+link-citations: yes
+---
+# Prerequisites {-}
+This thesis is copyright material protected under the Berne Convention, the Copyright Act 1999 and other international and national enactments, in that behalf, on intellectual property. It may not be reproduced by any means, in full or in part, except for short extracts in fair dealings, for research or private study, critical scholarly review or discourse with an acknowledgement, without the written permission of the Directorate of Postgraduate Studies, on behalf of both the author and the Khulna University
+
+# Aknowledgment {-}
+At first, all my admiration goes to the supreme creator and Ruler of the universe, the Almighty
+Allah for His great mercy to keep me alive and enables me to pursue my education in Fisheries
+and Marine Resource Technology Discipline as well as to complete my work for the degree of
+Bachelor of Science in Fisheries.
+I would like to express my sincere gratitude and profound appreciation to my honourable
+supervisor, Shikder Saiful Islam, Assistant Professor, Fisheries and Marine Resource Technology
+Discipline, for his continuous guidance, valuable suggestions, critical observations and sustained
+support in writing this thesis.
+I would like to express my profound gratitude to Professor Dr. Ghausiatur Reza Banu, Head,
+Fisheries and Marine Resource Technology Discipline, Khulna University for her valuable
+suggestions and providence of all necessary facilities.
+I recall with warm appreciation and great indebtedness or the support, guidance and suggestions
+extended to me by all of my respected teachers in Fisheries and Marine Resource Technology
+Discipline, Khulna University.
+I would also like to give special thanks to WorldFish, a non-profit research organization for
+financial support through Blue Economy Challenge Project to conduct this research for harnessing
+the potential of fisheries and aquaculture to strengthen livelihoods and improve food and nutrition
+security.
+Special thanks goes friends Md. Abdul Kadir Zilany for his support for completing my thesis work
+in laboratory.
+Finally, I would like to express my very profound gratitude to my parents for all care, unfailing
+support and continuous encouragement throughout my study. This accomplishment would not
+have been possible without them. 
+
+# Dedication {-}
+This thesis is dedicated to my beloved parents for their love patience and understanding, who played an important role along this journey, providing encouragement and moral support when it seemed impossible. May Almighty God bless you!
+
+# Abstract {-}
+This study evaluates the effect of different salinities and four experimental diets on percent
+specific growth rates (%SGR), weight gain (WG), daily weight gain (DWG), daily growth rate
+(DGR), relative growth rate( RGR) and survival of Penaeus monodon. Juveniles of P. monodon
+were cultured at salinities of 5, 10, 15, 20, ppt by feeding with four experimental diets (F1, F2, F3
+and F4) for 45 days. In this study, the feed’s fishmeal protein was replaced with concentrated
+microbial protein as an approach to blue economy challenge and aquaculture sustainability. Results
+of this study showed that different growth rates of P. monodon were not significantly affected by
+four different diets. However, significantly lower %SGR was observed at 10 ppt, which ranged
+from 1.144±1.19 to -0.364±0.53 (P<0.05). No significant differences was observed in DGR
+(ranged from 10.760±0.08 to -0.253±0.53) as well as in %RGR (ranged from 378.143±26.03 to -
+4.553±20.68) values. In contrast, salinities were found to have a significant effect on the combined
+dependent variable (P< 0.05). However, different feeds, and feed-salinity interaction did not show
+any significant effect on the variation of combined dependent variables (P>0.05). Finally, test of
+between subject effects demonstrated that different feeds, salinities, and interaction of feeds and
+salinities had no significant effect on the individual dependent variable in different tanks (P>0.05).
+In conclusion, different salinity might affect the culture and production of tiger shrimp in
+Bangladesh. Although we did not get any effect but further studies with close observation and with
+proper culture facilities different diets might also impact tiger shrimp production.

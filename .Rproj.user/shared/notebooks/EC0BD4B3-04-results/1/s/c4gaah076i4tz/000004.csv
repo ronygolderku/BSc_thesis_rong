@@ -1,0 +1,3 @@
+"0","leaflet(data = site %>% filter(district == ""Kinondoni"")) %>%"
+"0","  addTiles() %>%"
+"0","  addMarkers(lng = ~lon, lat = ~lat, popup = ~site)"

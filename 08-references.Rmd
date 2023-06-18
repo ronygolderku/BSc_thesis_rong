@@ -1,0 +1,124 @@
+`r if (knitr::is_html_output()) '
+# References {-}
+'`
+Bachere, E. (2000). Shrimp immunity and disease control. Aquaculture, 191(1–3), 3–11.
+https://doi.org/10.1016/S0044-8486 (00) 00413-0
+
+Biswas, G., R. Ananda. Raja., D.De., Sundaray, J.K., Ghosha, T.K.., Anand, S., Kumar, S.,.
+Panigrahi, A., Thirunavukkarasu, A.R., and Ponniah, A.G. (2012). Evaluation of
+productions and economic returns from two brackishwater polyculture systems in tide‐fed
+ponds. Journal of Applied Ichthyology, 28(1), 116-122.
+
+Boonyaratpalin, M., Thongrod, S., Supamattaya, K., Britton, G., and Schlipalius, L.E. (2001).
+Effects of b-carotene source, Dunaliella salina, and astaxanthin on pigmentation, growth,
+survival and health of Penaeus monodon. Aquaculture Research, 32(5), 182–190.
+https://doi.org/10.1046/j.1355-557x.2001.00039.x
+
+Branford, J.R. (1981). Sediment and distribution of penaeid shrimp in the Sudanese Red Sea. Estuarine, Coastal and Shelf Science, 13, 349–354.
+
+Brock, J.A. (1992). Current diagnostic methods for agents and diseases of farmed marine shrimp.
+In: Fulks, W.,Main K. (Eds)., Proceedings of the Asian Interchange Program Workshop on the Diseases of Cultured Penaeid Shrimp. Asian Interchange Program, The Oceanic Institute, Oahu, HI, pp. 209–231.
+
+Brock, J.A. and Lightner, D.V. (1990). Diseases of crustacea. Diseases caused by proliferative
+lesions and neoplasia. In: Kinne, O. (Ed).., Diseases of Marine Animals, Vol. III.
+Biologische Anstalt Helgoland, Hamburg, Germany, pp. 390–400
+
+Cereal Systems Initiative for South Asia in Bangladesh (CSISA-Bangladesh), WorldFish Center.
+
+Chen, L.C. (1990). Aquaculture in Taiwan, 288pp. Oxford, UK, Fishing News Books.
+
+DoF (2017). Yearbook of Fisheries Statistics of Bangladesh 2016-17. Fisheries Resources Survey
+System (FRSS), Department of Fisheries. Bangladesh : Director General, DoF, 2017, 34, 129.
+
+DoF (2018). Annual Report 2017. https://doi.org/10.1158/1078-0432.CCR-09-2824
+
+Drew, M.D., Borgeson, T.L., and Thiessen, D.L. (2007). A review of processing of feed
+ingredients to enhance diet digestibility in finfish. Animal Feed Science and Technology,
+138(2), 118–136. https://doi.org/10.1016/j.anifeedsci.2007.06.019
+
+FAO (2015). FAO Inland fisheries publications. Food and Agricultural Organization of the United Nations.
+
+FAO (2018). Black tiger shrimp - Penaeus monodon.
+Retrieved from http://www.fao.org/fishery/affris/species-profiles/giant-tigerprawn/giant-tigerprawn/giant-tiger-prawn-home/en/
+
+
+FAO (2017). FAO Yearbook: Fishery and Aquaculture Statistics. 2015. FAO Annual Yearbook.
+https://doi.org/10.5860/CHOICE.50-5350
+
+Gamboa-Delgado, J., Rojas-Casas, M.G., Nieto-López, M.G., and Cruz-Suárez, L.E. (2013). Simultaneous estimation of the nutritional contribution of fish meal, soy protein isolate, and corn gluten to the growth of Pacific white shrimp (Litopenaeus vannamei) using dual stable isotope analysis. Aquaculture, 380–383, 33–40.
+https://doi.org/10.1016/j.aquaculture.2012.11.028
+
+Gatlin, D.M., Barrows, F.T., Brown, P., Dabrowski, K., Gaylord, T.G., Hardy, R.W., and Wurtele, E. (2007). Expanding the utilization of sustainable plant products in aquafeeds: A review. Aquaculture Research, 38(6), 551–579. https://doi.org/10.1111/j.1365-2109.2007.01704.x
+
+Ghose, B. (2014). Fisheries and Aquaculture in Bangladesh: Challenges and Opportunities. SciMed Central, 1(1), 1–5.
+Retrieved from https://www.jscimedcentral.com/Aquaculture/aquaculture-1-1001.pdf
+
+Ghosh, A.K., Bir, J., Azad, M.A.K., Hasanuzzaman, A.F.M., Islam, M.S. and Huq, K.A. (2016). Impact of commercial probiotics application on growth and production of giant fresh water prawn (Macrobrachium rosenbergii De Man, 1879). Aquaculture Reports 4: 112-117.
+
+Gomez, M.G.U., López-Aceves, L.A., Ponce-Palafox, J.T., Rodríguez-González, H., and Arredondo-Figueroa, J.L. (2008). Growth of fresh-water prawn Macrobrachium tenellum (Smith, 1871) juveniles fed isoproteic diets substituting fish meal by soya bean meal. Brazilian Archives of Biology and Technology, 51(1), 57–65.
+https://doi.org/10.1590/S1516-89132008000100008
+
+HLPE (2014). Sustainable fisheries and aquaculture for food security and increasing global competition for small pelagic forage fish. Ambio, 43(7), 847–859.
+
+Johnson, S.K. (1995). Handbook of Shrimp Diseases. Sea Grant Publ. No. TAMU-SG-95-601(r).
+
+Ju, Z.Y., Forster, I.P., and Dominy, W.G. (2009). Effects of supplementing two species of marine algae or their fractions to a formulated diet on growth, survival, and composition of shrimp (Litopenaeus vannamei). Aquaculture, 292(3–4), 237–243.
+https://doi.org/10.1016/j.aquaculture.2009.04.040
+
+Kuhn, D.D., Boardman, G.D., Lawrence, A.L., Marsh, L., and Flick, G.J. (2009). Microbial floc meal as a replacement ingredient for fish meal and soybean protein in shrimp feed. Aquaculture, 296(1–2), 51–57. https://doi.org/10.1016/j.aquaculture.2009.07.025
+
+Lawrence, A.L. and Lee, P.G. (1997). Research in the Americas. In: D’Abramo, L.R., Conklin, D.E., Akiyama, D.M. (Eds.), Crustacean Nutrition. Advances in World Aquaculture, vol. 6. World Aquaculture Society, Baton Rouge, pp. 566–587.
+
+Liao, I.C. (1986). General introduction to the prawn pond system in Taiwan. Aquacultural Engineering, 5(2–4), 219–233. https://doi.org/10.1016/0144-8609(86)90018-X
+
+Lightner, D.V. and Redman, R.M. (1998). Shrimp diseases and current diagnostic methods. Aquaculture, 164(1–4), 201–220. https://doi.org/10.1016/S0044-8486(98)00187-2
+
+Mamun-Ur-Rashid, M., Belton, B., Phillips, M., and Rosentrater, K. (2013). Improving aquaculture feed in Bangladesh: From feed ingredients to farmer profit to safe consumption. Retrieved from: http://books.google.com/books?hl=en&lr=&id=2uxNAgAAQBAJ&oi=fnd&pg=PA4&dq=Improving+aquaculture+feed+in+Bangladesh+:+From+feed+ingredients+to+farmer+profit+to+safe+consumption&ots=CXs33fo9HJ&sig=nx6Opmi5XnnzWshCGuhgO4p0veU
+
+Musig, Y. and Boonnom, S. (1998). Low salinity culture of Penaeus monodon Fabricius and its effect on the environment, p123. In T.W. Flegel, ed. Advances in shrimp biotechnology. Bangkok, National Center for Genetic Engineering and Biotechnology.
+
+NRC. (2011). Nutrient Requirements of Fish and Shrimp. National Academy Press, Washington, DC. https://doi.org/10.1007/978-1-59745,409, 4(29)
+
+Rebecca, A.A. and Bhavan, P.S. (2014). Growth Promotion and Survival Enhancement of The Freshwater Prawn Macrobrachium rosenbergii Post Larvae Fed with Allium sativum, Zingiber officinale and Curcuma longa. 2014. International Journal of Pure and Applied Zoology, 2(2), 138-149.
+
+Sá, M.V.C., Sabry-Neto, H., Cordeiro-Júnior, E., and Nunes, A.J.P. (2013). Dietary concentration of marine oil affects replacement of fish meal by soy protein concentrate in practical diets for the white shrimp, Litopenaeus vannamei. Aquaculture Nutrition, 19(2), 199–210. https://doi.org/10.1111/j.1365-2095.2012.00954.x
+
+Sankar, G., Elavarasi, A., Sakkaravarthi, K., and Ramamoorthy, K. (2011). Biochemical changes and growth performance of black tiger shrimp larvae after using Ricinus communis extract as a feed additive. International Journal of PharmTech Research, 3(1), 201–208.
+
+Shamsuzzaman, M.M., Islam, M.M., Tania, N.J., Abdullah Al-Mamun, M., Barman, P.P., and Xu, X. (2017). Fisheries resources of Bangladesh: Present status and future direction. Aquaculture and Fisheries, 2(4), 145–156. https://doi.org/10.1016/j.aaf.2017.03.006
+
+Shyne Anand, P.S., Kohli, M.P.S., Dam Roy, S., Sundaray, J.K., Kumar, S., Sinha, A., Sukham, Kumar, M. (2015). Effect of dietary supplementation of periphyton on growth, immune response, and metabolic enzyme activities in Penaeus monodon. Aquaculture Research, 46(9), 2277–2288. https://doi.org/10.1111/are.12385
+
+Smith, D.M., Burford, M.A., and Tabrett, S.J. (2002). The effect of feeding frequency on water quality and growth of the black tiger shrimp Penaeus monodon. Aquaculture, 207, 125–136.
+
+Soares, M., Fracalossi, D.M., de Freitas, L.E.L., Rodrigues, M.S., Redig, J.C., Mouriño, J.L.P., and Vieira, Do F. N. (2015). Replacement of fish meal by protein soybean concentrate in practical diets for Pacific white shrimp. Revista Brasileira de Zootecnia, 44(10), 343–349. https://doi.org/10.1590/S1806-92902015001000001
+
+Souza, M. (2014). Aquaculture – Problems Inherent to Aquaculture. Retrieved from http://fishery.about.com/od/ProblemsinAquaculture/a/Aquaculture-Problems-Inherent-To-Aquaculture.htm
+
+Subasinghe, R., Soto, D., and Jia, J. (2009). Global aquaculture and its role in sustainable development. Reviews in Aquaculture, 1(1), 2–9. https://doi.org/10.1111/j.1753-5131.2008.01002.x
+
+Supamattaya, K., Kiriratnikom, S., Boonyaratpalin, M., and Borowitzka, L. (2005). Effect of a Dunaliella extract on growth performance, health condition, immune response, and disease resistance in black tiger shrimp (Penaeus monodon). Aquaculture, 248 (1–4), 207–216. https://doi.org/10.1016/j.aquaculture.2005.04.014
+
+Tacon, A.G. and Metian, M. (2013). Fish matters: importance of aquatic foods in human nutrition and global food supply. Reviews in Fisheries Science, 21(1), 22-38.
+
+Tacon, A. and Metian, M. (2013). Fish matters: Importance of aquatic Texas A&M. University, College Station, TX, 25 pp.
+
+Thimmurugan, R. and Subramanian, P., (2004). Growth of juvenile freshwater prawn Macrobrachium mslcolmsonii fed with various protein diets containing different biowastes. Bangladesh Journal of Fisheries Research, 8(1), 1-9.
+
+Wang, F.I. and Chen, J.C. (2006). The immune response of tiger shrimp Penaeus monodon and its susceptibility to Photobacterium damselae subsp. damselae under temperature stress. Aquaculture, 258(1–4), 34–41. https://doi.org/10.1016/j.aquaculture.2006.03.043
+
+Wang, Y.B. (2007). Effect of probiotics on growth performance and digestive enzyme activity of the shrimp Penaeus vannamei. Aquaculture, 269(1–4), 259–264. https://doi.org/10.1016/j.aquaculture.2007.05.035
+
+Wasielesky, W., Atwood, H., Stokes, A., and Browdy, C.L. (2006). Effect of natural production in a zero-exchange suspended microbial floc-based super-intensive culture system for white shrimp Litopenaeus vannamei. Aquaculture, 258(1–4), 396–403. https://doi.org/10.1016/j.aquaculture.2006.04.030
+
+Wikipedia. (2018). Penaeus monodon. Retrieved from https://en.wikipedia.org/wiki/Penaeus_monodon
+
+Yang, S., Wu, Z., Jian, J., and Zhang, X. (2010). Effect of marine red yeast Rhodosporidium paludigenum on growth and antioxidant competence of Litopenaeus vannamei. Aquaculture, 309(1–4), 62–65. https://doi.org/10.1016/j.aquaculture.2010.09.032
+
+Ye, L., Jiang, S., Zhu, X., Yang, Q., Wen, W., and Wu, K. (2009). Effects of salinity on growth and energy budget of juvenile Penaeus monodon. Aquaculture, 290(1–2), 140–144. https://doi.org/10.1016/j.aquaculture.2009.01.028
+
+Yeh, S.T., Lee, C.S., and Chen, J.C. (2006). Administration of hot-water extract of brown seaweed Sargassum duplicatum via immersion and injection enhances the immune resistance of white shrimp Litopenaeus vannamei. Fish and Shellfish Immunology, 20(3), 332–345. https://doi.org/10.1016/j.fsi.2005.05.008
+
+Zhang, J., Liu, Y., Tian, L., Yang, H., Liang, G., and Xu, D. (2012). Effects of dietary mannanoligosaccharide on growth performance, gut morphology, and stress tolerance of juvenile Pacific white shrimp, Litopenaeus vannamei. Fish and Shellfish Immunology, 33(4), 1027–1032. https://doi.org/10.1016/j.fsi.2012.05.001
+
+Ziaei-Nejad, S., Rezaei, M.H., Takami, G.A., Lovett, D.L., Mirvaghefi, A.R., and Shakouri, M. (2006). The effect of Bacillus spp. bacteria used as probiotics on digestive enzyme activity, survival, and growth in the Indian white shrimp Fenneropenaeus indicus. Aquaculture, 252(2–4), 516–524. https://doi.org/10.1016/j.aquaculture.2005.07.021.

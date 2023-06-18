@@ -1,0 +1,160 @@
+# Results
+
+## Growth performance of *P. monodon*
+
+The result of this study demonstrated that the maximum percent specific
+growth rate was found in tank S5F2 (1.144±1.19) and the minimum was
+found to be -0.364±0.53 in tank S10F3 (Table 4.1). In this experiment we
+found a significant effect of feeds and salinities on the %SGR in S10F1,
+S10F2, S10F3 and S10F4 compared to other treatment groups (P\<0.05). The
+result of this study did not reveal a significant different in the DWG
+among the treatments. However, the higher DWG was found in S5F4
+(0.750±0.01) and it was lower in S15F3 (0.000±0.10). Similarly, no
+significant differences was observed in DGR as well as in %RGR values.
+The maximum DGR and RGR was found in S15F2, 10.760±0.08 and
+378.143±26.03 respectively. However, it was minimum in S10F1,
+-0.253±0.53 and -4.553±20.68 respectively. In addition, initial and
+final body weight of shrimp was found S10F1, 1.829±0.22 and 2.295±0.56
+respectively and was minimum in S20F3, 1.023±.08 and in S5F2,
+1.211±0.11. There is no significance differences in initial and final
+body weight. In case of weight gain, it was higher in S10F3, 4.842±.04
+and minimum in S15F3, -0.014±2.72 (Table 3.1).
+
+## Effect of feeds and salinities on combined dependent variables
+
+Different multivariate test statistics (e.g. Pillai's Trace, Wilks'
+Lambda, Hotelling's Trace and Roy's Largest Root) showed statistical
+significance of different effects of the independent variable salinity
+on the combined dependent variable, F(15, 77.697) = 1.808, p = 0.048;
+Wilks' Λ = 0.438. The most commonly recommended multivariate statistic
+to use is Wilks' Lambda has been used for interpretation of the results.
+There was no statistically significant effect was observed in the
+interaction effect between treatment and salinity on the combined
+dependent variables, F(45, 128.354) = 0.946, p = .573; Wilks' Λ = .278.
+Similarly, four feed treatments did not show any significant differences
+on the combined dependent variables, F(15, 77.697) = 1.071, p = 0.397 ;
+Wilks' Λ =0.595 (Table 3.2).
+
+Table 4.1 Growth parameters (W0, Wt, WG, %SGR, DWG, DGR, %RGR) (mean ±
+standard error) of P. monodon treated with four different experimental
+diets and at different salinities. Different superscript letters (effect
+of feed) and estarics (effect of salinities) indicate significant
+difference among the treatments (Two-way multivariate analysis of
+variance, P\<0.05).
+
+| Treatment |    W0     |    Wt     |      WG       |      %SGR      |      DWG      |      DGR      | %RGR              |
+|---------|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|---------|
+| S5F1      | 1.279±.03 | 1.782±.36 | 1.656±.95a\*  |  .652±.39a\*   |  .037±.02a\*  | 3.681±2.11a\* | 126.941±70.46a\*  |
+| S5F2      | 1.223±.14 | 1.211±.11 | -.114±.82a\*  | 1.144±1.19a\*  | 0.075±.08a\*  | 7.507±8.15a\* | 188.389±194.20a\* |
+| S5F3      | 1.199±.07 | 1.564±.10 | 3.499±.32a\*  |  0.802±.28a\*  | 0.079±.03a\*  | 7.919±3.45a\* | 294.576±136.95a\* |
+| S5F4      | 1.121±.20 | 1.425±.20 | 2.907±.63a\*  |  0.803±.31a\*  | 0.750±.01a\*  | 7.500±3.37a\* | 250.706±87.19a\*  |
+| S10F1     | 1.829±.22 | 2.295±.56 | 3.378±3.67a\* | -.011±.05a\*\* | 0.003±.03a\*  | -0.253±.53a\* | -4.553±20.68a\*   |
+| S10F2     | 1.402±.05 | 1.496±.21 | 0.544±1.22a\* | 0.104±.23a\*\* | 0.012±.02a\*  | 1.208±2.70a\* | 32.111±85.83a\*   |
+| S10F3     | 1.293±.09 | 1.813±.09 | 4.842±.04a\*  | -.364±.53a\*\* |  .004±.06a\*  | .437±2.17a\*  | 11.668±72.83a\*   |
+| S10F4     | 1.566±.22 | 1.940±.20 | 3.254±.93a\*  | .839±.49a\*\*  | 0.098±.01a\*  | 9.810±6.30a\* | 306.101±169.03a\* |
+| S15F1     | 1.242±.04 | 1.798±.18 | 3.563±1.56a\* |  0.588±.05a\*  | 0.078±0.0a\*  | 7.775±.71a\*  | 291.503±20.03a\*  |
+| S15F2     | 1.341±.41 | 1.215±.28 | 0.197±0.98a\* |  0.757±.06a\*  | 0.108±0.0a\*  | 10.760±.08a\* | 378.143±26.03a\*  |
+| S15F3     | 1.493±.17 | 1.574±.16 | -.014±2.72a\* |  0.062±.51a\*  | 0.000±0.10a\* | -.031±6.04a\* | 36.287±167.92a\*  |
+| S15F4     | 1.411±.11 | 1.828±.43 | 3.81±3.19a\*  |  0.574±.32a\*  | 0.067±.00a\*  | 6.673±4.02a\* | 294.078±180.06a\* |
+| S20F1     | 1.233±.19 | 1.826±.52 | 3.375±1.52a\* | 0.574±0.18a\*  | 0.065±.04a\*  | 6.459±1.39a\* | 293.159±104.77a\* |
+| S20F2     | 1.371±.17 | 2.170±72  | 4.415±2.84a\* | 0.502±0.18a\*  | 0.072±.02a\*  | 7.230±2.06a\* | 223.903±75.89a\*  |
+| S20F3     | 1.023±.08 | 1.353±.22 | 3.003±1.81a\* | 0.480±0.39a\*  | 0.085±.07a\*  | 8.474±7.08a\* | 256.075±199.77a\* |
+| S20F4     | 1.204±10  | 1.306±.07 | 1.417±1.33a\* |  0.189±.31a\*  | 0.032±.03a\*  | 3.171±2.96a\* | 137.960±113.45a\* |
+
+*Note that, W0= Initial weight, Wt= Final weight ,WG= Weight gain, %SGR=
+Percentage specific growth rate, DWG= Daily weight gain, DGR= Daily
+growth rate, %RGR= Percentage relative growth rate.* S5= Salinity 5 ppt,
+S10= Salinity 10 ppt, S15= Salinity 15 ppt, S20=Salinity 20ppt. \*F1=
+Feed 1, F2= Feed 2, F3= Feed 3, F4= Feed 4.
+
+| Effect                |                    | Value | F       | Hypothesis df | Error df | Sig. |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| Intercept             | Pillai's Trace     | .594  | 14.653b | 3.000         | 30.000   | .000 |
+|                       | Wilks' Lambda      | .406  | 14.653b | 3.000         | 30.000   | .000 |
+|                       | Hotelling's Trace  | 1.465 | 14.653b | 3.000         | 30.000   | .000 |
+|                       | Roy's Largest Root | 1.465 | 14.653b | 3.000         | 30.000   | .000 |
+| Treatment             | Pillai's Trace     | .200  | .763    | 9.000         | 96.000   | .651 |
+|                       | Wilks' Lambda      | .812  | .727    | 9.000         | 73.163   | .683 |
+|                       | Hotelling's Trace  | .217  | .692    | 9.000         | 86.000   | .715 |
+|                       | Roy's Largest Root | .107  | 1.144c  | 3.000         | 32.000   | .346 |
+| Salinity              | Pillai's Trace     | .499  | 2.126   | 9.000         | 96.000   | .034 |
+|                       | Wilks' Lambda      | .563  | 2.165   | 9.000         | 73.163   | .034 |
+|                       | Hotelling's Trace  | .668  | 2.129   | 9.000         | 86.000   | .035 |
+|                       | Roy's Largest Root | .419  | 4.465c  | 3.000         | 32.000   | .010 |
+| Treatment \* Salinity | Pillai's Trace     | .553  | .804    | 27.000        | 96.000   | .737 |
+|                       | Wilks' Lambda      | .533  | .786    | 27.000        | 88.258   | .757 |
+|                       | Hotelling's Trace  | .724  | .769    | 27.000        | 86.000   | .778 |
+|                       | Roy's Largest Root | .440  | 1.566c  | 9.000         | 32.000   | .168 |
+
+## Effect of feeds and salinities on individual dependent variables
+
+Tests of between-subjects effects of multivariate analysis of variance
+showed that there was no significant difference in the interaction
+effect between treatment and salinity on Wt, F(9,.286) =.871, p = .560;
+Type III Sum of Squares = 2.575; WG, F(9, 8.945) = 0.888, p = 0.546;
+Type III Sum of Squares = 80.504; SGR, F(9, 0.295) = 0.523, p = 0.847;
+Type III Sum of Squares = 2.654; on DWG, F(9, 0.04) = 0.888, p = 0.546;
+Type III Sum of Squares = 0.040; on DGR, F(9, 44.172) = 0.888, p =
+0.546; Type III Sum of Squares = 397.549 and for RGR, F(9, 46382.390) =
+1.019, p = .446; Type III Sum of Squares = 417441.510 (Table 4.3).
+
+Different feeds had no significant effect on the growth Penaeus monodon
+(e.g.Wt, DW, SGR, DWG, DGR, RGR) with the F and P values; for Wt,
+F(3,.390) =1.186, p = .330; Type III Sum of Squares = 1.169; WG, F(3,
+8.049) = 0.799, p = 0.503; Type III Sum of Squares = 24.147; SGR, F(3,
+.369) = .655, p = .586; Type III Sum of Squares = 1.108; for DWG, F(3,
+0.002) = .475, p = .702; Type III Sum of Squares = 0.007; for DGR, F(3,
+23.639) = .475, p = .702; Type III Sum of Squares = 70.916 and for RGR,
+F(3, 20912.412) = .459, p = .713; Type III Sum of Squares = 62737 (Table
+4.3).
+
+Similarly, salinities also did not have significant effect on the growth
+of Penaeus monodon (e.g. Wt, DW, SGR, DWG, DGR, RGR) with the F and P
+values; for Wt, F(3,.326) =.992, p = .409; Type III Sum of Squares =
+.977; WG, F(3, 4.787) = 0.475, p = 0.702; Type III Sum of Squares =
+14.361 for SGR, F(3, 1.014) = 1.799, p = .167; Type III Sum of Squares =
+3.043; for DWG, F(3, 0.004) = .799, p = .503; Type III Sum of Squares =
+0.012 ; for DGR, F(3, 39.748) = .799, p = .503Type III Sum of Squares =
+119.243 and for RGR, F(3, 65256.710) = 1.434 p = .251; Type III Sum of
+Squares = 195770.129 (Table 4.3).
+
+Table 4.3 Effect of independent variables and its interactions on the individual dependent variables
+(Two-way multivariate analysis of variance, P<0.05).
+
+| Source              | Dependent Variable | Type III Sum of Squares | df  | Mean Square | F     | Sig. |
+|---------------------|--------------------|------------------------|-----|-------------|-------|------|
+| Corrected Model     | SGR                | 6.804a                 | 15  | .454        | .805  | .665 |
+|                     | DWG                | .059b                  | 15  | .004        | .788  | .681 |
+|                     | DGR                | 587.709c               | 15  | 39.181      | .788  | .681 |
+|                     | RGR                | 675948.875d            | 15  | 45063.258   | .990  | .488 |
+| Intercept           | SGR                | 11.104                 | 1   | 11.104      | 19.699| .000 |
+|                     | DWG                | .146                   | 1   | .146        | 29.415| .000 |
+|                     | DGR                | 1462.601               | 1   | 1462.601    | 29.415| .000 |
+|                     | RGR                | 1821744.322            | 1   | 1821744.322 | 40.022| .000 |
+| Treatment           | SGR                | 1.108                  | 3   | .369        | .655  | .586 |
+|                     | DWG                | .007                   | 3   | .002        | .475  | .702 |
+|                     | DGR                | 70.916                 | 3   | 23.639      | .475  | .702 |
+|                     | RGR                | 62737.235              | 3   | 20912.412   | .459  | .713 |
+| Salinity            | SGR                | 3.043                  | 3   | 1.014       | 1.799 | .167 |
+|                     | DWG                | .012                   | 3   | .004        | .799  | .503 |
+|                     | DGR                | 119.243                | 3   | 39.748      | .799  | .503 |
+|                     | RGR                | 195770.129             | 3   | 65256.710   | 1.434 | .251 |
+| Treatment * Salinity| SGR                | 2.654                  | 9   | .295        | .523  | .847 |
+|                     | DWG                | .040                   | 9   | .004        | .888  | .546 |
+|                     | DGR                | 397.549                | 9   | 44.172      | .888  | .546 |
+|                     | RGR                | 417441.510             | 9   | 46382.390   | 1.019 | .446 |
+| Error               | SGR                | 18.038                 | 32  | .564        |       |      |
+|                     | DWG                | .159                   | 32  | .005        |       |      |
+|                     | DGR                | 1591.150               | 32  | 49.723      |       |      |
+|                     | RGR                | 1456597.274            | 32  | 45518.665   |       |      |
+| Total               | SGR                | 35.946                 | 48  |             |       |      |
+|                     | DWG                | .364                   | 48  |             |       |      |
+|                     | DGR                | 3641.459               | 48  |             |       |      |
+|                     | RGR                | 3954290.471            | 48  |             |       |      |
+| Corrected Total     | SGR                | 24.842                 | 47  |             |       |      |
+|                     | DWG                | .218                   | 47  |             |       |      |
+|                     | DGR                | 2178.859               | 47  |             |       |      |
+|                     | RGR                | 2132546.149            | 47  |             |       |      |
+
+
+

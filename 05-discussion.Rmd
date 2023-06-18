@@ -1,0 +1,51 @@
+# Discussion
+
+Most penaeid shrimps are known to be euryhaline species growing in a wide range of salinities. P.
+monodon exhibits hyper-osmotic regulation at low salinity levels, and exhibits hypo-osmotic
+regulation at high salinity levels (Cheng and Liao, 1986). However, the low survival rate at 5 ppt
+found in this study, which was similar to the result obtained with postlarvae by Cawthorne et al.
+(1983). The authors argued that the adaptation ability of P. monodon to low salinity is relatively
+weak.
+
+Abnormal molting may also increase the opportunities of cannibalism due to weakness during
+molting, and anyway would usually be lethal for shrimps. On the other hand, as shown in our
+results, although low salinity enhanced molting, it did not accelerate growth rate but had adverse
+effects on the growth of P. monodon. In fact, similar observations have been verified in other
+crustaceans (Allan and Maguire, 1992; Vuayan and Diwan, 1995; Romano and Zeng, 2006).
+Considering the fact, the mortality was found in a few tank. In this experiment, the salinity have a
+significant difference on the variation of combined dependent variable. (P< 0.05) (Table. 4.2).
+Although, all the experimental tanks were placed in the same laboratory, but this effect might be
+due to different salinities that might have effect on the psychological responses such as increasing
+or decreasing the dissolve oxygen consumption. However, different feeds, and feed-salinity
+interaction were found to have no significant effect on the variation of combined dependent
+variables (P>0.05) (Table 3). On the other hand, test of between subject effects demonstrated that
+different feeds, salinities, and interaction of feeds and salinities had no significant effect on the
+individual dependent variable in different tanks. (P>0.05) (Table 4.3). This phenomenon was
+observed might be due to lower adaptability of shrimp with newly formulated feed, different level
+of salinities, and off course due to environmental fluctuations as well as seasonal dynamics during
+the experimental period.
+
+The costs of formulated feed and labor associated with feeding are a major component of the cost
+of cultured shrimp production (Lawrence and Lee, 1997). It is well established that the nutrient
+content of the feed will influence growth, survival and the amount of metabolic and excreted waste
+products entering the system. (Smith, Burford, & Tabrett, 2002)
+
+In the present study, the specific growth rate was ranged from 1.144±1.19 to -0.364±0.53. In this
+experiment we found a significant effect of feeds and salinities on the %SGR in S10F1, S10F2,
+S10F3 and S10F4 compared to other treatment groups (P<0.05). In addition, according to test of
+between subjects effects, different feeds and salinities had significant effect on the % SGR in
+different tanks (Table 4.3). However, interaction of this two factors did not have any influence on
+the individual dependent variable, %SGR (P<0.05) (Table 4.3). Variation of %SGR in different
+tanks might be due to variations in salinities which might influenced the respiratory metabolism
+of Penaeus monodon.(Ye et al., 2009).
+
+No significant differences was observed in DGR as well as in %RGR values. DGR was raged from
+10.760±0.08 to -0.253±0.53 and RGR was raged 378.143±26.03 to -4.553±20.68. The results of
+the current experiments indicated that salinity can have an immediate and significant effect on
+survival, and growth. A salinity range outside 20–30 ppt will increase energy channeled to
+respiration, excretion and exuviae. Thus, a salinity range between 20 and 30 ppt is recommended
+for the culture of juvenile P. monodon. This conclusion has significant implications for P.
+monodon aquaculture, as it can be utilized in farm site selection and salinity maintenance to
+maximize commercial productivity.(Ye et al., 2009).
+
+
